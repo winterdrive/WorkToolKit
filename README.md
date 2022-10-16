@@ -3,7 +3,7 @@ Some scripts make things simple
 <hr/> 
 
 ## Backup
-Google downsizing the volumn of my educational google drive account, I use this batch file for backuping my files with appropriate filename periodically.
+Google downsized the drive volumn of my educational account, I use this batch file for backuping my files with appropriate filename periodically.
   - **backup.bat**
 
 <hr/> 
@@ -29,7 +29,7 @@ Our dormitary cut off the internet connection if a device has been idle over 30 
 <hr/> 
 
 ## Notification
-I can't check my PC and notbooks all day long, so I need them to send me notification with Line or Telegram. 
+I can't check my PC and notbooks all day long, so I need them to send me notifications with Line or Telegram. 
   - **sendBatteryAlertByTelegram.py**
   - **sendDiskUsageByTelegram.py**
   - **sendPushInfoByLineNotify.py**
